@@ -25,7 +25,7 @@ export default function Navbar() {
             <a class="dropdown-item" href="#">Action</a>
             <a class="dropdown-item" href="#">Another action</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Something else here</a>
+            <a class="dropdown-item" href="#">Something else is  here</a>
           </div>
         </li>
         <li class="nav-item">
@@ -35,6 +35,7 @@ export default function Navbar() {
       <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"/>
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        <h1>test text</h1>
       </form>
     </div>
   </nav>
